@@ -1,5 +1,21 @@
-# 💫 About Me:
-Building scalable full-stack applications at Prepzr using React, REST APIs, SQL databases, and backend business logic, while optimizing performance, async processing, and system reliability.<br>High-impact projects involving Full-Stack Development (React, Node.js, FastAPI), IoT backend systems,  real-time data pipelines, and scalable REST API design.<br>Advanced system design, distributed architectures, cloud-native deployments, high-performance backend scaling, and production-grade DevOps workflows.<br>Deepening expertise in System Design, Microservices Architecture, Advanced SQL Optimization, Async Processing Patterns, and Cloud Deployment Strategies.<br>💬 Ask me about<br><br>Full Stack Development, REST API Design, IoT Telemetry Systems, MQTT Broker Architecture, Performance Optimization, ML Model Deployment, and Backend Scalability.<br>⚡ Fun fact<br><br>I built an MQTT Broker supporting 1,000+ concurrent IoT clients and optimized it to process 10,000 messages in 7.8 seconds — powered by C++, FreeRTOS, and multithreading.
+### 🔭 I’m currently working on
+Building scalable full-stack applications at Prepzr using React, Node.js, REST APIs, and SQL databases, while optimizing backend performance, async processing, and system reliability.
+
+### 🤝 I’m looking to collaborate on
+High-impact engineering projects focused on scalable full-stack systems, IoT backend infrastructure, MQTT-driven architectures, real-time data pipelines, and high-performance REST APIs.
+
+### 🆘 I’m looking for help with
+Advanced system design, distributed architectures, cloud-native deployments, backend scalability strategies, and production-grade DevOps workflows.
+
+### 🌱 I’m currently learning
+System Design, Microservices Architecture, Advanced SQL Optimization, Async Processing Patterns, and Cloud Deployment strategies.
+
+### 💬 Ask me about
+Full-Stack Development, REST API Design, IoT Telemetry Systems, MQTT Broker Architecture, Performance Optimization, ML Model Deployment, and Backend Scalability.
+
+### ⚡ Fun fact
+I built an MQTT Broker supporting 1,000+ concurrent IoT clients and optimized it to process 10,000 messages in 7.8 seconds using C++, FreeRTOS, and multithreading.
+
 
 
 ## 🌐 Socials:
