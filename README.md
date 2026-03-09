@@ -1,98 +1,136 @@
 <h1 align="center">Hi 👋, I'm Pradeep Rajput</h1>
-<h3 align="center">Full-Stack Engineer | IoT Systems Architect | Backend Performance Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Backend Systems Builder | AI & Scalable Web Applications</h3>
 
 <p align="center">
-Building scalable systems, real-time IoT architectures, and high-performance backend infrastructure.
+Building scalable full-stack applications, AI-powered systems, and production-ready backend infrastructure.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Full-Stack Developer with strong backend and system design fundamentals, currently building scalable production-grade applications.
+I am a Full-Stack Developer focused on building scalable production-grade applications with clean architecture and efficient backend systems.
+
+Currently working as a **Full Stack Developer Intern at Prepzr**, where I develop full-stack applications, design REST APIs, and optimize backend performance.
 
 My experience spans:
-- High-performance REST API development
-- Real-time IoT telemetry systems
-- MQTT-driven architectures
-- Async backend pipelines
-- SQL performance optimization
 
-I focus on clean architecture, measurable impact, and systems that scale reliably.
+- Scalable Full-Stack Web Applications
+- REST API Development & Backend Architecture
+- AI-powered Web Systems
+- Secure Authentication & API Design
+- SQL/NoSQL Database Optimization
+- Cloud Deployment & CI/CD
+
+I enjoy building systems that are **clean, scalable, and production-ready.**
 
 ---
 
 ## 🔭 I’m currently working on
-Building scalable full-stack applications using React, Node.js, REST APIs, and SQL databases while optimizing backend performance, async processing, and system reliability.
+
+Developing scalable full-stack applications using **React, Node.js, REST APIs, and SQL databases**, while improving backend performance and system reliability.
+
+---
 
 ## 🤝 I’m looking to collaborate on
-Scalable full-stack systems, IoT backend infrastructure, MQTT-driven architectures, real-time data pipelines, and high-performance REST APIs.
 
-## 🆘 I’m looking for help with
-Advanced system design, distributed architectures, cloud-native deployments, backend scalability strategies, and production-grade DevOps workflows.
+- Full-Stack Web Applications
+- AI-powered Web Platforms
+- Backend Systems & APIs
+- Scalable SaaS Platforms
+
+---
 
 ## 🌱 I’m currently learning
-System Design, Microservices Architecture, Advanced SQL Optimization, Async Processing Patterns, and Cloud Deployment strategies.
+
+- Advanced System Design  
+- Microservices Architecture  
+- Backend Scalability Patterns  
+- Cloud-native Deployments  
+
+---
 
 ## 💬 Ask me about
-Full-Stack Development, REST API Design, IoT Telemetry Systems, MQTT Broker Architecture, Performance Optimization, ML Model Deployment, and Backend Scalability.
+
+Full-Stack Development, REST APIs, Backend Optimization, React Applications, AI Integration in Web Apps, and Scalable System Design.
+
+---
 
 ## ⚡ Fun fact
-I built an MQTT Broker supporting 1,000+ concurrent IoT clients and optimized it to process 10,000 messages in 7.8 seconds using C++, FreeRTOS, and multithreading.
+
+I enjoy turning complex backend problems into scalable production systems and building products that people actually use.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 MQTT Broker (C++ | FreeRTOS | ESP32)
-- Engineered a broker supporting 1,000+ concurrent IoT clients
-- Reduced topic lookup complexity to O(log n) using Trie-based routing
-- Processed 10,000 MQTT messages in 7.8 seconds
-- Designed event-driven architecture for scalability
+## 🔹 Yaadein — Image Storage Platform
+**React | Node.js | Express 5 | MongoDB | Cloudinary | JWT**
 
-### 🔹 IoT Telemetry Backend (FastAPI | PostgreSQL | Docker)
-- Built containerized backend with async MQTT ingestion
-- Designed REST APIs for device registration and telemetry
-- Implemented strict data validation using Pydantic
-- Deployed modular services using Docker Compose
+- Built a full-stack image storage platform with metadata indexing and secure media management.
+- Implemented **JWT authentication, OAuth 2.0, and bcrypt encryption** for secure user access.
+- Designed REST APIs for image upload, retrieval, and user-based access control.
+- Deployed cloud infrastructure using **Cloudinary CDN, Vercel, and Render with CI/CD pipelines**.
 
 ---
 
-## 💻 Core Tech Stack
+## 🔹 MoodMatrix — AI Emotion & Sentiment Driven UI
+**FastAPI | DeepFace | React 19 | TailwindCSS**
 
-**Backend:** Node.js, FastAPI, REST APIs, SQL, PostgreSQL  
-**Frontend:** React, TailwindCSS  
-**IoT & Messaging:** MQTT, FreeRTOS, ESP32  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**DevOps & Tools:** Docker, Git, Linux, Azure  
-**ML/Data:** Scikit-learn, Pandas, NumPy  
+- Developed an **AI-powered web application** for facial emotion detection and sentiment analysis.
+- Built backend ML inference APIs using **FastAPI** for real-time processing.
+- Implemented **asynchronous video frame processing** and real-time UI rendering.
+- Optimized backend API performance for scalable AI inference workloads.
 
 ---
 
-## 🤝 Open to Opportunities
+# 💻 Core Tech Stack
+
+### Backend
+Node.js • Express.js • FastAPI • REST APIs • JWT • OAuth
+
+### Frontend
+React.js • Next.js • TailwindCSS • HTML5 • CSS3
+
+### Databases
+PostgreSQL • MySQL • MongoDB • SQL Optimization
+
+### AI / Data
+TensorFlow • Scikit-learn • Pandas • NumPy
+
+### DevOps & Tools
+Git • GitHub • Docker • AWS • Render • Vercel • Linux
+
+---
+
+# 🤝 Open to Opportunities
 
 Actively seeking:
+
 - Full-Stack Developer Roles
 - Backend Engineer Roles
-- IoT Systems Engineer Positions
 - Software Development Internships
+- AI-Driven Web Application Projects
 
-Open to collaboration on scalable backend and real-time systems.
+Open to collaboration on **scalable backend systems and full-stack products.**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeprajputofficial/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeeprajput.er@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=pradeep-88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=pradeep-88&theme=dark&hide_border=false)
 
 ---
 
-⭐ I build systems that scale. I optimize for performance. I ship production-ready code.
+⭐ I build scalable applications.  
+⚡ I optimize backend systems.  
+🚀 I ship production-ready software.
