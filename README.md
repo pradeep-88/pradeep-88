@@ -166,13 +166,9 @@ https://github.com/pradeep-88/Yaadein
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=tokyonight" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
 ---
 
 # 🔥 Contribution Streak
@@ -218,10 +214,21 @@ https://github.com/pradeep-88/Yaadein
 
 # 🤝 Connect With Me
 
-LinkedIn
-Email
-Portfolio
+<p align="center">
 
+<a href="https://www.linkedin.com/in/pradeeprajputoffcial/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Rajput-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:pradeeprajput.er@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pradeeprajput.er@gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://pradeeprajput-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel">
+</a>
+
+</p>
 ---
 
 <p align="center">
