@@ -1,146 +1,180 @@
-<h1 align="center">Hi 👋, I'm Pradeep Rajput</h1>
-<h3 align="center">Full-Stack Developer | Backend Systems Builder | AI & Scalable Web Applications</h3>
+<h1 align="center">Hi 👋 I'm Pradeep Rajput</h1>
 
 <p align="center">
-Building scalable full-stack applications, AI-powered systems, and production-ready backend infrastructure.
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;AI+Systems+Builder;Distributed+Systems+Enthusiast;Backend+Performance+Engineer;Building+Production+Grade+Applications" />
+</p>
+
+<p align="center">
+Building scalable systems, real-time AI applications, and high-performance backend architectures.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a Full-Stack Developer focused on building scalable production-grade applications with clean architecture and efficient backend systems.
+I am a **Full-Stack Engineer and Systems Builder** passionate about building **production-grade applications and intelligent systems**.
 
-Currently working as a **Full Stack Developer Intern at Prepzr**, where I develop full-stack applications, design REST APIs, and optimize backend performance.
+My work focuses on:
 
-My experience spans:
+• scalable backend architectures
+• AI-powered applications
+• real-time computer vision systems
+• event-driven distributed systems
+• high-performance APIs
 
-- Scalable Full-Stack Web Applications
-- REST API Development & Backend Architecture
-- AI-powered Web Systems
-- Secure Authentication & API Design
-- SQL/NoSQL Database Optimization
-- Cloud Deployment & CI/CD
-
-I enjoy building systems that are **clean, scalable, and production-ready.**
+I enjoy solving complex engineering problems and designing systems that are **efficient, scalable, and maintainable**.
 
 ---
 
-## 🔭 I’m currently working on
+# 🧠 Engineering Philosophy
 
-Developing scalable full-stack applications using **React, Node.js, REST APIs, and SQL databases**, while improving backend performance and system reliability.
+Great software is not about writing more code.
 
----
+It is about:
 
-## 🤝 I’m looking to collaborate on
+• designing clean architectures
+• building scalable systems
+• optimizing performance
+• writing maintainable code
 
-- Full-Stack Web Applications
-- AI-powered Web Platforms
-- Backend Systems & APIs
-- Scalable SaaS Platforms
-
----
-
-## 🌱 I’m currently learning
-
-- Advanced System Design  
-- Microservices Architecture  
-- Backend Scalability Patterns  
-- Cloud-native Deployments  
+I aim to build systems that **scale reliably in real-world environments.**
 
 ---
 
-## 💬 Ask me about
-
-Full-Stack Development, REST APIs, Backend Optimization, React Applications, AI Integration in Web Apps, and Scalable System Design.
-
----
-
-## ⚡ Fun fact
-
-I enjoy turning complex backend problems into scalable production systems and building products that people actually use.
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Yaadein — Image Storage Platform
-**React | Node.js | Express 5 | MongoDB | Cloudinary | JWT**
-
-- Built a full-stack image storage platform with metadata indexing and secure media management.
-- Implemented **JWT authentication, OAuth 2.0, and bcrypt encryption** for secure user access.
-- Designed REST APIs for image upload, retrieval, and user-based access control.
-- Deployed cloud infrastructure using **Cloudinary CDN, Vercel, and Render with CI/CD pipelines**.
-
----
-
-## 🔹 MoodMatrix — AI Emotion & Sentiment Driven UI
-**FastAPI | DeepFace | React 19 | TailwindCSS**
-
-- Developed an **AI-powered web application** for facial emotion detection and sentiment analysis.
-- Built backend ML inference APIs using **FastAPI** for real-time processing.
-- Implemented **asynchronous video frame processing** and real-time UI rendering.
-- Optimized backend API performance for scalable AI inference workloads.
-
----
-
-# 💻 Core Tech Stack
+# ⚙️ Tech Stack
 
 ### Backend
-Node.js • Express.js • FastAPI • REST APIs • JWT • OAuth
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
 
 ### Frontend
-React.js • Next.js • TailwindCSS • HTML5 • CSS3
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+
+### AI / Computer Vision
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-AI-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-red?style=for-the-badge)
 
 ### Databases
-PostgreSQL • MySQL • MongoDB • SQL Optimization
 
-### AI / Data
-TensorFlow • Scikit-learn • Pandas • NumPy
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 
-### DevOps & Tools
-Git • GitHub • Docker • AWS • Render • Vercel • Linux
+### Dev Tools
 
----
-
-# 🤝 Open to Opportunities
-
-Actively seeking:
-
-- Full-Stack Developer Roles
-- Backend Engineer Roles
-- Software Development Internships
-- AI-Driven Web Application Projects
-
-Open to collaboration on **scalable backend systems and full-stack products.**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
 
-# 🌐 Connect With Me
+# ⭐ Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeprajputofficial/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeeprajput.er@gmail.com)
+### 🔹 FocusGuard AI
+
+Real-time phone usage detection using YOLOv8 and OpenCV.
+
+https://github.com/pradeep-88/focusguard-ai
+
+---
+
+### 🔹 MoodMatrix
+
+Emotion-aware UI powered by facial emotion detection and sentiment analysis.
+
+https://github.com/pradeep-88/MoodMatrix
+
+---
+
+### 🔹 Event Threat System
+
+Event-driven threat detection system built in Go using concurrent worker pools.
+
+https://github.com/pradeep-88/event-threat-system
+
+---
+
+### 🔹 AI Quiz Platform
+
+AI-powered quiz generation and automated evaluation platform.
+
+https://github.com/pradeep-88/AI_Quiz
+
+---
+
+### 🔹 Yaadein
+
+Image storage system with QR-based retrieval and metadata indexing.
+
+https://github.com/pradeep-88/Yaadein
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pradeep-88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=pradeep-88&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
 
 ---
 
-⭐ I build scalable applications.  
-⚡ I optimize backend systems.  
-🚀 I ship production-ready software.
-
-## 🐍 Contribution Snake
+# 🔥 Contribution Streak
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradeep-88/pradeep-88/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradeep-88/pradeep-88/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pradeep-88/pradeep-88/output/github-contribution-grid-snake.svg">
-  </picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-88&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep-88&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pradeep-88/pradeep-88/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pradeep-88&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+• AI system design
+• distributed backend systems
+• scalable event pipelines
+• advanced computer vision
+
+---
+
+# 🤝 Connect With Me
+
+LinkedIn
+Email
+Portfolio
+
+---
+
+<p align="center">
+Always building. Always learning.
 </p>
