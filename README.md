@@ -129,11 +129,11 @@ AI-powered quiz generation and automated evaluation for dynamic learning workflo
 Image storage platform with **QR-based retrieval**, **metadata indexing**, and secure media workflows.
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
