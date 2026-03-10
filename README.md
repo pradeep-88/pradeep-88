@@ -143,10 +143,6 @@ Real-time phone usage detection using **YOLOv8** and **OpenCV** with webcam-base
 
 Emotion-aware UI with **facial emotion detection**, **sentiment analysis**, and adaptive frontend behavior.
 
-### 🔹 [Event Threat System](https://github.com/pradeep-88/event-threat-system)
-
-Event-driven threat detection in **Go**, using **concurrent worker pools** for scalable processing.
-
 ### 🔹 [AI Quiz Platform](https://github.com/pradeep-88/AI_Quiz)
 
 AI-powered quiz generation and automated evaluation for dynamic learning workflows.
@@ -155,18 +151,11 @@ AI-powered quiz generation and automated evaluation for dynamic learning workflo
 
 Image storage platform with **QR-based retrieval**, **metadata indexing**, and secure media workflows.
 
----
-## 💡 Engineering Highlights
+### 🔹 [Event Threat System](https://github.com/pradeep-88/event-threat-system)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Performance%20Engineering-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-Distributed%20Systems-success?style=for-the-badge" />
-</p>
+Event-driven threat detection in **Go**, using **concurrent worker pools** for scalable processing.
 
-- Building scalable full-stack and AI-powered applications
-- Interested in backend performance, distributed systems, and real-time inference
-- Focused on clean architecture, maintainable APIs, and production-ready software
+
 ---
 
 ## 🔥 Contribution Streak
