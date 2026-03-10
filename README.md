@@ -133,10 +133,9 @@ Image storage platform with **QR-based retrieval**, **metadata indexing**, and s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e&icon_color=0366d6" width="400" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e" width="350" height="180" alt="Top languages" />
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
