@@ -129,13 +129,17 @@ AI-powered quiz generation and automated evaluation for dynamic learning workflo
 Image storage platform with **QR-based retrieval**, **metadata indexing**, and secure media workflows.
 
 ---
-## 📊 GitHub Analytics
+## 💡 Engineering Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-88&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Performance%20Engineering-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-Distributed%20Systems-success?style=for-the-badge" />
 </p>
 
+- Building scalable full-stack and AI-powered applications
+- Interested in backend performance, distributed systems, and real-time inference
+- Focused on clean architecture, maintainable APIs, and production-ready software
 ---
 
 ## 🔥 Contribution Streak
