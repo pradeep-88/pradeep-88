@@ -115,14 +115,14 @@ When I'm not writing code, I'm thinking about **why** the architecture should be
 ---
 
 ## 🌱 Currently
-
-```js
+js
 {
-  building  : "Full-stack SaaS — React + Supabase + real-time features",
-  learning  : "Distributed systems — consensus, consistent hashing, CAP theorem",
-  reading   : "Designing Data-Intensive Applications — Kleppmann",
+  building  : "Full-stack SaaS with React and Supabase",
+  learning  : "System design and distributed systems fundamentals",
+  reading   : "Clean Code by Robert C. Martin",
   open_to   : ["Full-Stack roles", "Backend roles", "AI-adjacent engineering"],
 }
+
 ```
 
 ---
