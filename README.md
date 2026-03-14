@@ -1,218 +1,145 @@
-<h1 align="center">Hi 👋, I'm Pradeep Rajput</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+Systems+Builder;Distributed+Systems+Enthusiast;Backend+Performance+Engineer;Building+Production-Grade+Applications" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:22c55e,100:0f172a&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  Building scalable systems, real-time AI applications, and high-performance backend architectures.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=550&lines=Full-Stack+Engineer;AI+%2B+Computer+Vision+Builder;Real-Time+Systems+Enthusiast;Open+to+opportunities+%E2%86%92" alt="Typing SVG" />
 
----
+<br/>
 
-## 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://pradeeprajput-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeeprajputoffcial/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeeprajput.er@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=pradeep-88&label=Profile+Views&color=22c55e&style=for-the-badge)](https://github.com/pradeep-88)
 
-I am a **Full-Stack Engineer and Systems Builder** focused on **production-grade applications and intelligent systems**.
-
-**Focus areas:**
-
-- Scalable backend architectures
-- AI-powered applications
-- Real-time computer vision systems
-- Event-driven distributed systems
-- High-performance APIs
-
-I enjoy solving complex engineering problems and designing systems that are **efficient, scalable, and maintainable**.
+</div>
 
 ---
 
-## 🧠 Engineering Philosophy
+## `$ whoami`
 
-Great software is not about writing more code. It is about:
+```ts
+const pradeep = {
+  role      : "Full-Stack Engineer",
+  focus     : ["AI Systems", "Real-Time Applications", "Scalable Backends"],
+  stack     : ["React", "Node.js", "Python", "Go", "FastAPI", "PostgreSQL"],
+  building  : "Production-grade apps at the intersection of AI and web",
+  available : true,   // ← open to opportunities
+  location  : "India 🇮🇳",
+};
+```
 
-- Designing clean architectures
-- Building scalable systems
-- Optimizing performance
-- Writing maintainable code
+I build things that actually run — real-time computer vision systems, event-driven backends, AI-powered workflows. Not demos. Not tutorials. Stuff that ships.
 
-I aim to build systems that **scale reliably in real-world environments**.
-
----
-
-## ⚙️ Tech Stack
-
-### 🧠 Languages
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+When I'm not writing code, I'm thinking about **why** the architecture should be a certain way, **where** it'll break under load, and **how** to make the codebase easier for the next person.
 
 ---
 
-### 🎨 Frontend Development
+## ⚙️ Tech I reach for
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### ⚡ Backend & APIs
+**Frontend**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
 
-<p align="center">
-<img src="https://img.shields.io/badge/REST_API-2496ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OAuth2-Security-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+**Backend & APIs**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-2496ED?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🗄️ Databases
+**Databases**
 
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**AI / ML**
 
-### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### ☁️ Cloud, DevOps & Tools
+## 📌 Pinned — what's worth exploring
 
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-5B43E6?style=for-the-badge"/>
-</p>
+> Browse my repos for the full picture. These are the ones that show how I think.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+| Project | What it is | Core tech |
+|---|---|---|
+| [**FocusGuard AI**](https://github.com/pradeep-88/focusguard-ai) | Real-time phone detection with live webcam inference | YOLOv8, OpenCV, Python |
+| [**MoodMatrix**](https://github.com/pradeep-88/MoodMatrix) | UI that adapts based on your facial emotion in real time | React, TensorFlow, FastAPI |
+| [**AI Quiz Platform**](https://github.com/pradeep-88/AI_Quiz) | AI-generated quizzes with automated evaluation | Node.js, LLM APIs, MongoDB |
+| [**Yaadein**](https://github.com/pradeep-88/Yaadein) | Image storage with QR-based retrieval and metadata indexing | React, Node.js, PostgreSQL |
+| [**Event Threat System**](https://github.com/pradeep-88/event-threat-system) | Concurrent threat detection using Go worker pools | Go, Event-Driven Architecture |
+| [**Portfolio**](https://pradeeprajput-portfolio.netlify.app) | Hand-built with custom cursor, ⌘K palette, spotlight cards | React, Framer Motion, Vite |
 
 ---
 
-### 🧩 Core Engineering Skills
+## 📊 GitHub at a glance
 
-- **Data Structures & Algorithms**
-- **System Design**
-- **Performance Optimization**
-- **Debugging & Problem Solving**
-- **API Security & Authentication**
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-88&theme=tokyonight&hide_border=true&background=0f172a&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22c55e&sideLabels=94a3b8&dates=475569" width="49%" alt="Streak"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=pradeep-88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22c55e&icon_color=22c55e&text_color=94a3b8&rank_icon=github" width="49%" alt="Stats"/>
 
-## ⭐ Featured Projects
+<br/><br/>
 
-### 🔹 [FocusGuard AI](https://github.com/pradeep-88/focusguard-ai)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep-88&theme=tokyo-night&bg_color=0f172a&color=22c55e&line=22c55e&point=ffffff&hide_border=true" width="98%" alt="Activity graph"/>
 
-Real-time phone usage detection using **YOLOv8** and **OpenCV** with webcam-based monitoring and alerts.
+<br/>
 
-### 🔹 [MoodMatrix](https://github.com/pradeep-88/MoodMatrix)
+<img src="https://raw.githubusercontent.com/pradeep-88/pradeep-88/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution snake"/>
 
-Emotion-aware UI with **facial emotion detection**, **sentiment analysis**, and adaptive frontend behavior.
-
-### 🔹 [AI Quiz Platform](https://github.com/pradeep-88/AI_Quiz)
-
-AI-powered quiz generation and automated evaluation for dynamic learning workflows.
-
-### 🔹 [Yaadein](https://github.com/pradeep-88/Yaadein)
-
-Image storage platform with **QR-based retrieval**, **metadata indexing**, and secure media workflows.
-
-### 🔹 [Event Threat System](https://github.com/pradeep-88/event-threat-system)
-
-Event-driven threat detection in **Go**, using **concurrent worker pools** for scalable processing.
-
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🌱 Currently
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep-88&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep-88&theme=tokyo-night" alt="Activity graph" />
-</p>
+```js
+{
+  building  : "Full-stack SaaS — React + Supabase + real-time features",
+  learning  : "Distributed systems — consensus, consistent hashing, CAP theorem",
+  reading   : "Designing Data-Intensive Applications — Kleppmann",
+  open_to   : ["Full-Stack roles", "Backend roles", "AI-adjacent engineering"],
+}
+```
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pradeep-88/pradeep-88/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
+*The best way to know if we're a good fit is to look at the code.*
 
----
+**[See my work →](https://pradeeprajput-portfolio.netlify.app)**
 
-## 👀 Profile Views
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:22c55e,100:0f172a&height=80&section=footer" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradeep-88&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- AI system design
-- Distributed backend systems
-- Scalable event pipelines
-- Advanced computer vision
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pradeeprajputoffcial/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pradeeprajput.er@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://pradeeprajput-portfolio.netlify.app/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-<p align="center"><b>Always building. Always learning.</b></p>
+</div>
