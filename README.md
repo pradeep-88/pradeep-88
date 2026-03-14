@@ -77,7 +77,7 @@ When I'm not writing code, I'm thinking about **why** the architecture should be
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
----
+
 
 ## 📌 Pinned — what's worth exploring
 
