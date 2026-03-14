@@ -113,16 +113,14 @@ When I'm not writing code, I'm thinking about **why** the architecture should be
 </div>
 
 ---
-
 ## 🌱 Currently
-js
+```js
 {
   building  : "Full-stack SaaS with React and Supabase",
   learning  : "System design and distributed systems fundamentals",
   reading   : "Clean Code by Robert C. Martin",
   open_to   : ["Full-Stack roles", "Backend roles", "AI-adjacent engineering"],
 }
-
 ```
 
 ---
