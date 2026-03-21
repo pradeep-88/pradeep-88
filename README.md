@@ -23,7 +23,7 @@ const pradeep = {
   stack     : ["React", "Node.js", "Python", "Go", "FastAPI", "PostgreSQL"],
   building  : "Production-grade apps at the intersection of AI and web",
   available : true,   // ← open to opportunities
-  location  : "India 🇮🇳",
+  location  : "India 🇮🇳"
 };
 
 ```
