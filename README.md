@@ -28,7 +28,7 @@ const pradeep = {
 
 ```
 
-I build things that actually run — real-time computer vision systems, event-driven backends, AI-powered workflows. Not demos. Not tutorials. Stuff that ships.
+I build things that actually run — real-time computer vision systems, event-driven backends, AI-powered workflows, Not demos. Not tutorials. Stuff that ships.
 
 When I'm not writing code, I'm thinking about **why** the architecture should be a certain way, **where** it'll break under load, and **how** to make the codebase easier for the next person.
 
